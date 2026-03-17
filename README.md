@@ -32,16 +32,26 @@ NovaStay est une application Web Fullstack haut de gamme dédiée à la réserva
 ## 📸 Aperçu de l'Interface
 
 ### 🏠 Page d'Accueil (Hub d'Exploration)
+
 La page principale affiche les hôtels disponibles avec des visuels haute résolution provenant d'Unsplash.
-> *Emplacement conseillé pour image : `images/Home.png`*
+
+![Page d'accueil](./images/Home.png)
+
+---
 
 ### 🛌 Détails & Chambres
+
 Vue détaillée d'un hôtel incluant le sélecteur de dates et la liste des unités d'habitation disponibles.
-> *Emplacement conseillé pour image : `images/Details.png`*
+
+![Détails hôtel](./images/Details.png)
+
+---
 
 ### 📅 Gestion des Réservations
+
 Interface utilisateur permettant de visualiser l'historique des voyages confirmés.
-> *Emplacement conseillé pour image : `images/Voyages.png`*
+
+![Historique des voyages](./images/Voyages.png)
 
 ---
 
